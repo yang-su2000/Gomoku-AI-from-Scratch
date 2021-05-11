@@ -4,7 +4,7 @@ Gomoku AI from scratch
 Showcase:
 ---------
 - https://youtu.be/5QnG0_ijQdA
-<img src="images/Gomoku-Demo.gif" width=1000 height=600>
+<img src="images/Gomoku-Demo.gif" width=500 height=250>
 
 Play:
 -----
