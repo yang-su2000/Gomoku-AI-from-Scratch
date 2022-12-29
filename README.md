@@ -6,6 +6,8 @@ Showcase:
 - https://youtu.be/5QnG0_ijQdA
 <img src="images/Gomoku-Demo.gif" width=500 height=250>
 
+- [Paper](Gomoku%20AI.pdf) (or manuscript)
+
 Play:
 -----
 - install pygame: `pip install pygame`
